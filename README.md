@@ -1,1 +1,1 @@
-# LiverDCN
+# Code for Discovery of Disease, Progress and Treatment Response Markers in Liver Disease with Unsupervised Deep Clustering
